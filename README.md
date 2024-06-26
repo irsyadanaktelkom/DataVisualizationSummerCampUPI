@@ -1,3 +1,1 @@
-## Untuk Reviews.csv tidak dapat diupload pada github dikarenakan filenya diatas 300 MB berisi penilaian terhadap produk 
-## yang dijual di Amazon. Untuk dapat mengunduh file tersebut dapat diunduh di 
-## [Tautan ini](https://drive.google.com/drive/folders/1H7pEcuX4rh81qcwYGFXUR8SMQhyFrdl0)
+## The Reviews.csv file cannot be uploaded to GitHub because it is over 300 MB and contains product ratings sold on Amazon. To download the file, you can access it at [This Link](https://drive.google.com/drive/folders/1H7pEcuX4rh81qcwYGFXUR8SMQhyFrdl0)
